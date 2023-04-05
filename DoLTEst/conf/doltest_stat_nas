@@ -1,0 +1,11 @@
+nas_test_state=0
+nas_test_protocol=1
+nas_test_message=0
+emm_cause_idx=22
+sec_hdr_type_idx=0
+id_type_idx=0
+mac_type_idx=0
+start_day=249
+start_hour=125
+cipher_algo=0
+integ_algo=0
